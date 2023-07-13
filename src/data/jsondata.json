@@ -1,0 +1,315 @@
+[
+    {
+        "Category":"IT Asset","SubCategory":"Databases",
+        "Asset":[
+            {"Name":"SQL Server","Image":"..//images1/sqlserver1.png",
+             "Attributes":[
+                { "key": "Create", "Value": "https://dbaas.intel.com/#/data/create-service" },
+                { "key": "Docs", "Value": "https://wiki.ith.intel.com/display/DBaas/Home" },
+                { "key": "AGS", "Value": "https://react.school" },
+                { "key": "View", "Value": "https://localhost/view" }]
+            },
+
+            {"Name":"My SQL","Image":"/images1/Mysql.png",
+            "Attributes":[
+               { "key": "Create", "Value": "https://dbaas.intel.com/#/data/create-service" },
+               { "key": "Docs", "Value": "https://wiki.ith.intel.com/display/DBaas/Home" },
+               { "key": "AGS", "Value": "https://react.school" },
+               { "key": "View", "Value": "https://localhost/view" }]
+           },
+
+           {"Name":"Postgress","Image":"/images1/postgress.png",
+           "Attributes":[
+              { "key": "Create", "Value": "https://dbaas.intel.com/#/data/create-service" },
+              { "key": "Docs", "Value": "https://wiki.ith.intel.com/display/DBaas/Home" },
+              { "key": "AGS", "Value": "https://react.school" },
+              { "key": "View", "Value": "https://localhost/view" }]
+          },
+
+          {"Name":"Mongo DB","Image":"/images1/mongoDB1.png",
+          "Attributes":[
+             { "key": "Create", "Value": "https://dbaas.intel.com/#/data/create-service" },
+             { "key": "Docs", "Value": "https://wiki.ith.intel.com/display/DBaas/Home" },
+             { "key": "AGS", "Value": "https://react.school" },
+             { "key": "View", "Value": "https://localhost/view" }]
+         },
+
+         {"Name":"Redis","Image":"/images1/redis1.png",
+          "Attributes":[
+             { "key": "Create", "Value": "https://dbaas.intel.com/#/data/create-service" },
+             { "key": "Docs", "Value": "https://wiki.ith.intel.com/display/DBaas/Home" },
+             { "key": "AGS", "Value": "https://react.school" },
+             { "key": "View", "Value": "https://localhost/view" }]
+         }
+        ]
+    },
+
+    {
+        "Category":"IT Asset","SubCategory":"Server",
+        "Asset":[
+            {"Name":"VM","Image":"/images1/vm.png",
+             "Attributes":[
+                { "key": "Create", "Value": "https://dbaas.intel.com/#/data/create-service" },
+                { "key": "Docs", "Value": "https://wiki.ith.intel.com/display/DBaas/Home" },
+                { "key": "AGS", "Value": "https://react.school" },
+                { "key": "View", "Value": "https://localhost/view" }]
+            },
+
+            {"Name":"Physical Server","Image":"/images1/server.jpg",
+            "Attributes":[
+               { "key": "Create", "Value": "https://intel.service-now.com/nav_to.do?uri=%2Fcom.glideapp.servicecatalog_cat_item_view.do%3Fv%3D1%26sysparm_id%3Dc649846ae825a7005c3c88a21f08fded" },
+               { "key": "Docs", "Value": "https://wiki.ith.intel.com/display/DBaas/Home" },
+               { "key": "AGS", "Value": "https://react.school" },
+               { "key": "View", "Value": "https://localhost/view" }]
+           }
+          
+        ]
+    },
+
+    {
+        "Category":"IT Asset","SubCategory":"Certificates",
+        "Asset":[
+            {"Name":"Edge AI Certification","Image":"/images/edgeAI1.png",
+             "Attributes":[
+                { "key": "Create", "Value": "https://dbaas.intel.com/#/data/create-service" },
+                { "key": "Docs", "Value": "https://wiki.ith.intel.com/display/DBaas/Home" },
+                { "key": "AGS", "Value": "https://react.school" },
+                { "key": "View", "Value": "https://localhost/view" }]
+            },
+
+            {"Name":"Computer Vision","Image":"/images/computervision.png",
+            "Attributes":[
+               { "key": "Create", "Value": "https://dbaas.intel.com/#/data/create-service" },
+               { "key": "Docs", "Value": "https://wiki.ith.intel.com/display/DBaas/Home" },
+               { "key": "AGS", "Value": "https://react.school" },
+               { "key": "View", "Value": "https://localhost/view" }]
+           },
+
+           {"Name":"Machine Learning","Image":"/images/Machinelearning.png",
+           "Attributes":[
+              { "key": "Create", "Value": "https://dbaas.intel.com/#/data/create-service" },
+              { "key": "Docs", "Value": "https://wiki.ith.intel.com/display/DBaas/Home" },
+              { "key": "AGS", "Value": "https://react.school" },
+              { "key": "View", "Value": "https://localhost/view" }]
+          },
+
+          {"Name":"Transfer Learning","Image":"/images/TransferLearning.png",
+          "Attributes":[
+             { "key": "Create", "Value": "https://dbaas.intel.com/#/data/create-service" },
+             { "key": "Docs", "Value": "https://wiki.ith.intel.com/display/DBaas/Home" },
+             { "key": "AGS", "Value": "https://react.school" },
+             { "key": "View", "Value": "https://localhost/view" }]
+         }
+        ]
+    },
+
+    {
+        "Category":"IT Asset","SubCategory":"Cloud Foundry",
+        "Asset":[
+            {"Name":"Org","Image":"/images1/org.png",
+             "Attributes":[
+                { "key": "Create", "Value": "https://cloudfoundry.intel.com/apps/orgs" },
+                { "key": "Docs", "Value": "https://wiki.ith.intel.com/display/DBaas/Home" },
+                { "key": "AGS", "Value": "https://react.school" },
+                { "key": "View", "Value": "https://localhost/view" }]
+            },
+
+            {"Name":"Space","Image":"/images1/space.png",
+            "Attributes":[
+               { "key": "Create", "Value": "https://cloudfoundry.intel.com/apps/spaces" },
+               { "key": "Docs", "Value": "https://wiki.ith.intel.com/display/DBaas/Home" },
+               { "key": "AGS", "Value": "https://react.school" },
+               { "key": "View", "Value": "https://localhost/view" }]
+           },
+
+           {"Name":"Applications","Image":"/images1/apps.png",
+           "Attributes":[
+              { "key": "Create", "Value": "https://cloudfoundry.intel.com/apps/home" },
+              { "key": "Docs", "Value": "https://wiki.ith.intel.com/display/DBaas/Home" },
+              { "key": "AGS", "Value": "https://react.school" },
+              { "key": "View", "Value": "https://localhost/view" }]
+          },
+
+          {"Name":"Services","Image":"/images1/service.png",
+          "Attributes":[
+             { "key": "Create", "Value": "https://cloudfoundry.intel.com/apps/services" },
+             { "key": "Docs", "Value": "https://wiki.ith.intel.com/display/DBaas/Home" },
+             { "key": "AGS", "Value": "https://react.school" },
+             { "key": "View", "Value": "https://localhost/view" }]
+         }
+        ]
+    },
+
+    {
+        "Category":"IT Asset","SubCategory":"Caas",
+        "Asset":[
+            {"Name":"Rancher","Image":"/images1/rancher.png",
+             "Attributes":[
+                { "key": "Create", "Value": "https://intel.service-now.com/nav_to.do?uri=%2Fcom.glideapp.servicecatalog_cat_item_view.do%3Fv%3D1%26sysparm_id%3Dc649846ae825a7005c3c88a21f08fded" },
+                { "key": "Docs", "Value": "https://wiki.ith.intel.com/display/DBaas/Home" },
+                { "key": "AGS", "Value": "https://react.school" },
+                { "key": "View", "Value": "https://localhost/view" }]
+            },
+
+           {"Name":"Harbor","Image":"/images1/harbor.jpg",
+           "Attributes":[
+              { "key": "Create", "Value": "https://intel.service-now.com/nav_to.do?uri=%2Fcom.glideapp.servicecatalog_cat_item_view.do%3Fv%3D1%26sysparm_id%3Dc649846ae825a7005c3c88a21f08fded" },
+              { "key": "Docs", "Value": "https://wiki.ith.intel.com/display/DBaas/Home" },
+              { "key": "AGS", "Value": "https://react.school" },
+              { "key": "View", "Value": "https://localhost/view" }]
+          }
+          
+        ]
+    },
+
+
+    {
+        "Category":"IT Service","SubCategory":"Platform as a Service",
+        "Asset":[
+            {"Name":"Edge AI Certification","Image":"/images/edgeAI1.png",
+             "Attributes":[
+                { "key": "Create", "Value": "https://dbaas.intel.com/#/data/create-service" },
+                { "key": "Docs", "Value": "https://wiki.ith.intel.com/display/DBaas/Home" },
+                { "key": "AGS", "Value": "https://react.school" },
+                { "key": "View", "Value": "https://localhost/view" }]
+            },
+
+            {"Name":"Computer Vision","Image":"/images/computervision.png",
+            "Attributes":[
+               { "key": "Create", "Value": "https://dbaas.intel.com/#/data/create-service" },
+               { "key": "Docs", "Value": "https://wiki.ith.intel.com/display/DBaas/Home" },
+               { "key": "AGS", "Value": "https://react.school" },
+               { "key": "View", "Value": "https://localhost/view" }]
+           },
+
+           {"Name":"Machine Learning","Image":"/images/Machinelearning.png",
+           "Attributes":[
+              { "key": "Create", "Value": "https://dbaas.intel.com/#/data/create-service" },
+              { "key": "Docs", "Value": "https://wiki.ith.intel.com/display/DBaas/Home" },
+              { "key": "AGS", "Value": "https://react.school" },
+              { "key": "View", "Value": "https://localhost/view" }]
+          },
+
+          {"Name":"Transfer Learning","Image":"/images/TransferLearning.png",
+          "Attributes":[
+             { "key": "Create", "Value": "https://dbaas.intel.com/#/data/create-service" },
+             { "key": "Docs", "Value": "https://wiki.ith.intel.com/display/DBaas/Home" },
+             { "key": "AGS", "Value": "https://react.school" },
+             { "key": "View", "Value": "https://localhost/view" }]
+         }
+        ]
+    },
+
+    {
+        "Category":"IT Service","SubCategory":"Infrastructure as a Service",
+        "Asset":[
+            {"Name":"Edge AI Certification","Image":"/images/edgeAI1.png",
+             "Attributes":[
+                { "key": "Create", "Value": "https://dbaas.intel.com/#/data/create-service" },
+                { "key": "Docs", "Value": "https://wiki.ith.intel.com/display/DBaas/Home" },
+                { "key": "AGS", "Value": "https://react.school" },
+                { "key": "View", "Value": "https://localhost/view" }]
+            },
+
+            {"Name":"Transfer Learning","Image":"/images/TransferLearning.png",
+          "Attributes":[
+             { "key": "Create", "Value": "https://dbaas.intel.com/#/data/create-service" },
+             { "key": "Docs", "Value": "https://wiki.ith.intel.com/display/DBaas/Home" },
+             { "key": "AGS", "Value": "https://react.school" },
+             { "key": "View", "Value": "https://localhost/view" }]
+         },
+
+         {"Name":"Machine Learning","Image":"/images/Machinelearning.png",
+           "Attributes":[
+              { "key": "Create", "Value": "https://dbaas.intel.com/#/data/create-service" },
+              { "key": "Docs", "Value": "https://wiki.ith.intel.com/display/DBaas/Home" },
+              { "key": "AGS", "Value": "https://react.school" },
+              { "key": "View", "Value": "https://localhost/view" }]
+          },
+
+          {"Name":"Computer Vision","Image":"/images/computervision.png",
+          "Attributes":[
+             { "key": "Create", "Value": "https://dbaas.intel.com/#/data/create-service" },
+             { "key": "Docs", "Value": "https://wiki.ith.intel.com/display/DBaas/Home" },
+             { "key": "AGS", "Value": "https://react.school" },
+             { "key": "View", "Value": "https://localhost/view" }]
+         },
+
+         {"Name":"Edge AI Certification","Image":"/images/edgeAI1.png",
+         "Attributes":[
+            { "key": "Create", "Value": "https://dbaas.intel.com/#/data/create-service" },
+            { "key": "Docs", "Value": "https://wiki.ith.intel.com/display/DBaas/Home" },
+            { "key": "AGS", "Value": "https://react.school" },
+            { "key": "View", "Value": "https://localhost/view" }]
+        },
+
+        
+        {"Name":"Transfer Learning","Image":"/images/TransferLearning.png",
+        "Attributes":[
+           { "key": "Create", "Value": "https://dbaas.intel.com/#/data/create-service" },
+           { "key": "Docs", "Value": "https://wiki.ith.intel.com/display/DBaas/Home" },
+           { "key": "AGS", "Value": "https://react.school" },
+           { "key": "View", "Value": "https://localhost/view" }]
+       },
+
+       {"Name":"Transfer Learning","Image":"/images/TransferLearning.png",
+       "Attributes":[
+          { "key": "Create", "Value": "https://dbaas.intel.com/#/data/create-service" },
+          { "key": "Docs", "Value": "https://wiki.ith.intel.com/display/DBaas/Home" },
+          { "key": "AGS", "Value": "https://react.school" },
+          { "key": "View", "Value": "https://localhost/view" }]
+      },
+
+      {"Name":"Machine Learning","Image":"/images/Machinelearning.png",
+      "Attributes":[
+         { "key": "Create", "Value": "https://dbaas.intel.com/#/data/create-service" },
+         { "key": "Docs", "Value": "https://wiki.ith.intel.com/display/DBaas/Home" },
+         { "key": "AGS", "Value": "https://react.school" },
+         { "key": "View", "Value": "https://localhost/view" }]
+     },
+
+     {"Name":"Computer Vision","Image":"/images/computervision.png",
+     "Attributes":[
+        { "key": "Create", "Value": "https://dbaas.intel.com/#/data/create-service" },
+        { "key": "Docs", "Value": "https://wiki.ith.intel.com/display/DBaas/Home" },
+        { "key": "AGS", "Value": "https://react.school" },
+        { "key": "View", "Value": "https://localhost/view" }]
+    },
+
+    
+{"Name":"Computer Vision","Image":"/images/computervision.png",
+"Attributes":[
+   { "key": "Create", "Value": "https://dbaas.intel.com/#/data/create-service" },
+   { "key": "Docs", "Value": "https://wiki.ith.intel.com/display/DBaas/Home" },
+   { "key": "AGS", "Value": "https://react.school" },
+   { "key": "View", "Value": "https://localhost/view" }]
+},
+
+{"Name":"Machine Learning","Image":"/images/Machinelearning.png",
+"Attributes":[
+  { "key": "Create", "Value": "https://dbaas.intel.com/#/data/create-service" },
+  { "key": "Docs", "Value": "https://wiki.ith.intel.com/display/DBaas/Home" },
+  { "key": "AGS", "Value": "https://react.school" },
+  { "key": "View", "Value": "https://localhost/view" }]
+},
+
+{"Name":"Transfer Learning","Image":"/images/TransferLearning.png",
+"Attributes":[
+ { "key": "Create", "Value": "https://dbaas.intel.com/#/data/create-service" },
+ { "key": "Docs", "Value": "https://wiki.ith.intel.com/display/DBaas/Home" },
+ { "key": "AGS", "Value": "https://react.school" },
+ { "key": "View", "Value": "https://localhost/view" }]
+},
+
+{"Name":"Edge AI Certification","Image":"/images/edgeAI1.png",
+ "Attributes":[
+    { "key": "Create", "Value": "https://dbaas.intel.com/#/data/create-service" },
+    { "key": "Docs", "Value": "https://wiki.ith.intel.com/display/DBaas/Home" },
+    { "key": "AGS", "Value": "https://react.school" },
+    { "key": "View", "Value": "https://localhost/view" }]
+}
+
+            
+        ]
+    }
+]

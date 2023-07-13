@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1b3350c1.css",
+    "main.js": "/static/js/main.b39df542.js",
+    "static/js/787.6b503308.chunk.js": "/static/js/787.6b503308.chunk.js",
+    "static/media/icons-light.ttf": "/static/media/icons-light.24c29b67e42bb00a7eed.ttf",
+    "static/media/icons-regular.ttf": "/static/media/icons-regular.877db419052a48a4aeba.ttf",
+    "static/media/icons-solid.ttf": "/static/media/icons-solid.9cda407a187233d20b89.ttf",
+    "static/media/logo3.png": "/static/media/logo3.52543ed060ff4ff147c4.png",
+    "static/media/windowsserver.png": "/static/media/windowsserver.d2330625598686746bab.png",
+    "static/media/icons-light.woff": "/static/media/icons-light.cebb91cac46ddbd5204c.woff",
+    "static/media/icons-regular.woff": "/static/media/icons-regular.da0f2394bff8503f6e39.woff",
+    "static/media/icons-solid.woff": "/static/media/icons-solid.d3f85118afe5be6223cb.woff",
+    "static/media/icons-light.woff2": "/static/media/icons-light.8ef778ea72d9d14ac6ac.woff2",
+    "static/media/icons-regular.woff2": "/static/media/icons-regular.2fa308468516378602fe.woff2",
+    "static/media/icons-solid.woff2": "/static/media/icons-solid.c0703b12489e382930c2.woff2",
+    "index.html": "/index.html",
+    "main.1b3350c1.css.map": "/static/css/main.1b3350c1.css.map",
+    "main.b39df542.js.map": "/static/js/main.b39df542.js.map",
+    "787.6b503308.chunk.js.map": "/static/js/787.6b503308.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b3350c1.css",
+    "static/js/main.b39df542.js"
+  ]
+}

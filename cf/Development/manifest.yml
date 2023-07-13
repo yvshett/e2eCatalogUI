@@ -1,0 +1,20 @@
+---
+defaults: &defaults
+  buildpacks:
+    - https://github.com/cloudfoundry/nginx-buildpack.git
+  stack: cflinuxfs4
+  instances: 2
+  memory: 4096M
+  disk_quota: 4096M
+  path: ../../build
+  env:
+    FORCE_HTTPS: true
+applications:
+  - name: e2e-ui-dev
+    <<: *defaults
+    routes:
+      - route: e2e-ui-dev.apps1-fm-int.icloud.intel.com
+      - route: e2e-dev.intel.com
+    env:
+      NODE_ENV: development
+  
